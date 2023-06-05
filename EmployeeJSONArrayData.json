@@ -1,0 +1,35 @@
+[ {
+		"age": 14,
+        "rollno":101,
+		"firstName": "Amuthan",
+		"lastName": "Sakthivel",
+		"course": 
+		     [
+			"FullStack Dev",
+			"Data Science"
+		]
+	},
+  {
+		"age": 15,
+        "rollno":102,
+		"firstName": "Sandeepan",
+		"lastName": "Banerjee",
+		"course": 
+		     [
+			"SEO",
+			"Digital Marketing"
+		]
+	},
+  {
+		"age": 16,
+        "rollno":103,
+		"firstName": "Roshan",
+		"lastName": "Hrithick",
+		"course": 
+		     [
+			"Snowflake",
+			"Azure"
+		]
+	}
+  
+]

@@ -1,0 +1,10 @@
+{
+	"age": 14,
+	"rollno": 101,
+	"firstName": "Amuthan",
+	"lastName": "Sakthivel",
+	"course": [
+		"FullStack Dev",
+		"Data Science"
+	]
+}

@@ -1,0 +1,18 @@
+
+
+COVERED TOPICS
+---------------
+
+
+1.	Read a JSON string – starting with JSON Object ‘{}’ and fetch its values.[deserialization using Jackson]
+2.	Read a JSON string – starting with JSON Array‘[]’ and fetch its values.
+    [ deserialization using Jackson]
+3.	Read Json Object kept in a file and map it to a POJO .[deserialization using Jackson]
+4.	Read Json Array kept in a file and map it to a POJO .[deserialization using Jackson]
+5.	Create a JSON payload using ObjectMapper, ObjectNode and ArrayNode class objects (Serialization using Jackson)
+6.	Serialize JSON Object from POJO to JSON and save it on external file. (Serialization using Jackson)
+7.	Serialize JSON Array from POJO to JSON and save it on external file. (Serialization using Jackson)
+8.	Understanding TypeReference concept : Read Json Object kept in a file and map it to a Map<String,Object>.[deserialization using Jackson]
+9.	Understanding TypeReference concept :  Read Json Array kept in a file and map it to a List<Map<String,Object>> & [deserialization using Jackson]
+
+

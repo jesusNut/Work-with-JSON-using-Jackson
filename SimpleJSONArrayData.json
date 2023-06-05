@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Abhishek",
+		"workType": "Great",
+		"age": 555,
+		"canBeDead": "false"
+	},
+{
+		"name": "Elon Bhau",
+		"workType": "mmm..okk",
+		"age": 50,
+		"canBeDead": "true"
+	}
+]
